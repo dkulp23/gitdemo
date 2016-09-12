@@ -10,3 +10,5 @@ MORE ipsum for experimentations sake.
 
 a.)
 b.)
+
+Man the tutorial started out slow and picked up the pace quickly!!
